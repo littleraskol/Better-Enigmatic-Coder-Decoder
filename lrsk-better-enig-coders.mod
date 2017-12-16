@@ -7,4 +7,4 @@ tags={
 }
 picture="ENCRYPTION.jpg"
 remote_file_id="860225679"
-supported_version="1.8.*"
+supported_version="1.9.*"
